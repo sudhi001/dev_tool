@@ -1,0 +1,78 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "modelVersionParserMinimum": 5,
+  "entities": [
+    {
+      "id": "1:7789085350678561479",
+      "name": "ConsoleOutput",
+      "lastPropertyId": "14:8777232173170306557",
+      "properties": [
+        {
+          "id": "1:3948824481899339273",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "13:4661025683665669772",
+          "name": "build_number",
+          "type": 9
+        },
+        {
+          "id": "2:4470906089292565525",
+          "name": "project_name",
+          "type": 9
+        },
+        {
+          "id": "3:8343690123817310108",
+          "name": "build_date",
+          "type": 9
+        },
+        {
+          "id": "4:6209379092964208814",
+          "name": "generated_by",
+          "type": 9
+        },
+        {
+          "id": "5:2099524260776542051",
+          "name": "console_output",
+          "type": 9
+        },
+        {
+          "id": "6:2231735419946317261",
+          "name": "revision_msg",
+          "type": 9
+        },
+        {
+          "id": "7:4772755055716062538",
+          "name": "result",
+          "type": 9
+        },
+        {
+          "id": "14:8777232173170306557",
+          "name": "duration",
+          "type": 9
+        },
+        {
+          "id": "8:7191687640528497383",
+          "name": "flavour",
+          "type": 9
+        },
+        {
+          "id": "9:1337803797588105941",
+          "name": "revision",
+          "type": 9
+        },
+        {
+          "id": "10:4853387301604466179",
+          "name": "apk_url",
+          "type": 9
+        }
+      ]
+    }
+  ],
+  "lastEntityId": "1:7789085350678561479",
+  "lastIndexId": "0:0"
+}
